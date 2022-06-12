@@ -1,2 +1,2 @@
 # Zine-Task-1
-Created pwm registers using port registers
+Created custom pwm signals using port registers to increase the brightness of an led.
